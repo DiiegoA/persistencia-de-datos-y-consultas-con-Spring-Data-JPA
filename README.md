@@ -1,10 +1,10 @@
 # ScreenMatch Application
 
 ## Description
-The **ScreenMatch** project is a Java-based application designed to manage multimedia content, focusing primarily on series and episodes. It includes functionalities for querying, filtering, and organizing series and episodes using external APIs and Java Streams, enabling efficient data handling.
+The **ScreenMatch** project is a Java-based application designed to manage multimedia content, focusing primarily on series and episodes. It includes functionalities for querying, filtering, and organizing series and episodes using external APIs and Java Streams, enabling efficient data handling. Additionally, the project features two exercises: an Anime Application (Exercise 1) that manages anime-specific content, and a Music Application (Exercise 2) that organizes music-related data, including songs, artists, and genres.
 
 ## Overview
-The **ScreenMatch** application offers features for organizing and querying multimedia content such as series and episodes. By leveraging Java Streams and integrating with external APIs, the application is optimized for efficient data processing.
+The **ScreenMatch** application offers features for organizing and querying multimedia content, such as series and episodes. By leveraging Java Streams and integrating with external APIs, the application is optimized for efficient data processing. The two exercises further extend the application's scope, focusing on anime and music data management, each with specialized functionalities and data models.
 
 ## Key Features
 
